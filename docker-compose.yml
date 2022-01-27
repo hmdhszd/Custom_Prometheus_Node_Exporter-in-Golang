@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  golang-node-exporter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: always
+    ports:
+      - "9999:9999"
