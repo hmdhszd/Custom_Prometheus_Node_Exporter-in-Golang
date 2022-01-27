@@ -1,6 +1,6 @@
 ## About the app
 
-In one particilar project, i had to import some key/value data to Prometheus. So i have decided to create my custom-built Node Exporter in Golang, then dockerized it and shared it in my Github account.
+In one particilar project, i had to import some key/value data to Prometheus. So i have decided to create my custom-built Node Exporter in Golang, then dockerize it and share it in my Github account.
 
 In this example, i used API to get Bitcoin price in Dollar and Euro, import it in the Prometheus and visualize it using Grafana. You can import any data using your own Golang scripts.
 
