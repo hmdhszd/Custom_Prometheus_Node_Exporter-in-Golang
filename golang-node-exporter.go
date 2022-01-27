@@ -17,7 +17,7 @@ func Get_Data_and_Put_Into_File() {
 	//----------------------------------------------------------------------------------
 	//               in this part, i'll get some data from an API
 	//
-	//									and put it into "metrics.txt" file
+	//               and put it into "metrics.txt" file
 	//
 	//              you can remove this part and add your own script
 	//----------------------------------------------------------------------------------
@@ -115,11 +115,11 @@ func main() {
 	//----------------------------------------------------------------------------------
 	//----------------------------------------------------------------------------------
 	//
-	// 					I used "Get_Data_and_Put_Into_File" function to gather data
+	//                I used "Get_Data_and_Put_Into_File" function to gather data
 	//
-	//						  		and put it into a file called "metrics.txt"
+	//               	and put it into a file called "metrics.txt"
 	//
-	//			  					 you can write and use your own function
+	//               	you can write and use your own function
 	//
 	//----------------------------------------------------------------------------------
 	//---------------------------------------------------------------------------------
@@ -129,9 +129,9 @@ func main() {
 	//----------------------------------------------------------------------------------
 	//----------------------------------------------------------------------------------
 	//
-	//        											   in this part,
+	//               		in this part,
 	//
-	//  				   i'll run a web server, so prometheus could scrape data
+	//               i'll run a web server, so prometheus could scrape data
 	//
 	//----------------------------------------------------------------------------------
 	//----------------------------------------------------------------------------------
