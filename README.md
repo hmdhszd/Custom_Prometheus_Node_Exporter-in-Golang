@@ -35,7 +35,7 @@ Add this part at the end of the configuration of your Prometheus (prometheus.yam
   - job_name: Golang-exporter
     metrics_path: /metrics.txt
     static_configs:
-      - targets: ['<IP-of-Node-Exporter's-Server>:9999']
+      - targets: ['<IP-of-Node-Exporter-Server>:9999']
 ```
 
 
